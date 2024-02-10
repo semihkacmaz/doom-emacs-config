@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: vector_field
+# key: vf
+# --
+${1:v} = ${2:M}.vector_field(${3:enter components,} name='$1')$0

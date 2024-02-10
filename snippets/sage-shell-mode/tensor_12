@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tensor_12
+# key: t12
+# --
+${1:G}['^${2:a}_${3:b}_${4:c}']$0

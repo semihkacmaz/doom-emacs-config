@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Euclidean-3_space_cylindrical
+# key: e3c
+# --
+${1:E}.<${2:rh},${3:ph},${4:z}> = EuclideanSpace(coordinates='cylindrical')$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: chart_4d_spherical
+# key: ch4s
+# --
+${1:name}.<${2:t}, ${3:r}, ${4:th}, ${5:ph}> = ${6:M}.chart(r'$2 $3:(0,+oo) $4:(0,pi):\theta $5:(0,2*pi):\phi${7::periodic}')
+$0

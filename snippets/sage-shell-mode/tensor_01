@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tensor_01
+# key: t01
+# --
+${1:w}['_${2:a}']$0

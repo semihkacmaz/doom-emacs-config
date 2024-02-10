@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tensor_02
+# key: t02
+# --
+${1:g}['_${2:a}${3:b}']$0

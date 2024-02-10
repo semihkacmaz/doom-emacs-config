@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: chart_3d_spherical
+# key: ch3s
+# --
+${1:name}.<${2:r}, ${3:th}, ${4:ph}> = ${5:M}.chart(r'$2:(0,+oo) $3:(0,pi):\theta $4:(0,2*pi):\phi${6::periodic}')
+$0

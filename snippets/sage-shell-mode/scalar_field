@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: scalar_field
+# key: sf
+# --
+${1:rho} = ${2:M}.scalar_field(${3:function('$1')(${4:t})},$5 name='$1')$0

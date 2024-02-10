@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Euclidean-3_space
+# key: e3
+# --
+${1:E}.<x,y,z> = EuclideanSpace()$0

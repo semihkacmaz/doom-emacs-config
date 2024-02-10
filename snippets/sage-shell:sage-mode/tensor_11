@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tensor_11
+# key: t11
+# --
+${1:T}['^${2:a}_${3:b}']$0

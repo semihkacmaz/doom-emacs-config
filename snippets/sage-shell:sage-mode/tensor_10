@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tensor_10
+# key: t10
+# --
+${1:V}['^${2:a}']$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: manifold
+# key: mm
+# --
+${1:M} = Manifold(${2:d},'${3:name}', structure='${4:Lorentzian}')
+$0

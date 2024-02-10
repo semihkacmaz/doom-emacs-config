@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tensor_30
+# key: t30
+# --
+${1:eps}['^${2:a}${3:b}${4:c}']$0

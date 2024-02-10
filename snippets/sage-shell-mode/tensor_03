@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tensor_03
+# key: t03
+# --
+${1:eps}['_${2:a}${3:b}${4:c}']$0

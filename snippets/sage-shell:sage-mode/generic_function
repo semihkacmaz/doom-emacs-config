@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: generic_function
+# key: gf
+# --
+function('${1:name}')(${2:variables})$0

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tensor_20
+# key: t20
+# --
+${1:T}['^${2:a}${3:b}']$0
